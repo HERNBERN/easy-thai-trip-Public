@@ -160,7 +160,7 @@ Safe Area Context
 
 📂 Project Structure
 โครงสร้างของโปรเจกต์ถูกแบ่งเป็นหลายโฟลเดอร์เพื่อให้การพัฒนาง่ายและเป็นระเบียบ
-
+```
 easy-thai-trip
 │
 ├── app
@@ -180,7 +180,7 @@ easy-thai-trip
 ├── assets
 │
 └── README.md
-
+```
 
 🚀 Installation
 1️⃣ Clone Repository
