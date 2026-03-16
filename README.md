@@ -184,13 +184,13 @@ easy-thai-trip
 
 🚀 Installation
 1️⃣ Clone Repository
-git clone https://github.com/HERNBERN/easy-thai-trip-Public.git
+```git clone https://github.com/HERNBERN/easy-thai-trip-Public.git```
 
 2️⃣ Install Dependencies
-npm install
+```npm install```
 
 3️⃣ Run Project
-npx expo start
+```npx expo start```
 
 
 🎯 Objectives
