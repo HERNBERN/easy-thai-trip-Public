@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "เที่ยวง่ายสไตล์ฉัน",
+    "slug": "thaitripplanner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "scheme": "thaitripplanner",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f0fdf4"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.thaitripplanner.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f0fdf4"
+      },
+      "package": "com.thaitripplanner.app"
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
